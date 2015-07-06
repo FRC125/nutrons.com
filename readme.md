@@ -11,8 +11,8 @@ built on top of the popular PHP Laravel Framework.
 
 ### Testing
 For instruction on how to setup the project and run it correctly,
-head over to the [setup wiki page](https://github.com/camilo86/NUTRONS.com/wiki/Project-Setup) for detail instructions
+head over to the [setup wiki page](https://github.com/FRC125/nutrons.com/wiki/Project-Setup) for detail instructions
 
 ## Copyright and license
 
-Code copyright 2015 NUTRONS. Code released under [the MIT license](https://github.com/camilo86/NUTRONS.com/blob/master/LICENSE).
+Code copyright 2015 NUTRONS. Code released under [the MIT license](https://github.com/FRC125/nutrons.com/blob/master/LICENSE).
